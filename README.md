@@ -36,6 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+## 💡 Meu aprendizado 
+Os cursos da RocketSeat sempre me surpreendem muito. Na minha opinião, o discover é o curso gratuíto mais completo sobre front-end, apresentando diversos conceitos basicos importantes e indo até elementos mais avançados. Estou muito feliz com meu avanço e o resultado do projeto.
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
