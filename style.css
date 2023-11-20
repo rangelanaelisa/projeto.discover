@@ -32,6 +32,7 @@ body {
   background-position: top center;
   background-size: cover; */
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh ;
 }
 
 body * { 
@@ -44,7 +45,7 @@ body * {
   max-width: 588px;
   height: 712px;
   margin: auto;
-  padding-top: 56px;
+  padding: 0 24px;
 }
 
 #profile {
@@ -161,4 +162,15 @@ footer {
   color: var(--text-color);
   font-size: 12px;
 
+}
+
+/* Media queries */
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg)
+  }
 }
